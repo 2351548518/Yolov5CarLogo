@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>Citroen_ (38).jpg</filename>
+	<path>D:\dataset\VOCdevkit\VOC2007\JPEGImages\Citroen_ (38).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Citroen</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1001</xmin>
+			<ymin>451</ymin>
+			<xmax>1044</xmax>
+			<ymax>498</ymax>
+		</bndbox>
+	</object>
+</annotation>

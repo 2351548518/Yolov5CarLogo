@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>KIA_ (26).jpg</filename>
+	<path>D:\dataset\VOCdevkit\VOC2007\JPEGImages\KIA_ (26).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>950</width>
+		<height>712</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>KIA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>330</xmin>
+			<ymin>454</ymin>
+			<xmax>387</xmax>
+			<ymax>482</ymax>
+		</bndbox>
+	</object>
+</annotation>

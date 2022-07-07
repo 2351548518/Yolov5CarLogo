@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>Hyundai_ (29).jpg</filename>
+	<path>D:\dataset\VOCdevkit\VOC2007\JPEGImages\Hyundai_ (29).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2500</width>
+		<height>1500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hyundai</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1630</xmin>
+			<ymin>857</ymin>
+			<xmax>1776</xmax>
+			<ymax>941</ymax>
+		</bndbox>
+	</object>
+</annotation>

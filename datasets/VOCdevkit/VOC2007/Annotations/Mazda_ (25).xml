@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>Mazda_ (25).jpg</filename>
+	<path>D:\dataset\VOCdevkit\VOC2007\JPEGImages\Mazda_ (25).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2738</width>
+		<height>1825</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mazda</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>673</xmin>
+			<ymin>957</ymin>
+			<xmax>790</xmax>
+			<ymax>1055</ymax>
+		</bndbox>
+	</object>
+</annotation>

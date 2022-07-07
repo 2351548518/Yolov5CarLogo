@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>Fukude_ (10).jpg</filename>
+	<path>D:\dataset\VOCdevkit\VOC2007\JPEGImages\Fukude_ (10).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2028</width>
+		<height>1818</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fukude</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>909</xmin>
+			<ymin>1089</ymin>
+			<xmax>1028</xmax>
+			<ymax>1211</ymax>
+		</bndbox>
+	</object>
+</annotation>

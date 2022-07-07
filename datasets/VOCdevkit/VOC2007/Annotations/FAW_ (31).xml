@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>FAW_ (31).jpg</filename>
+	<path>D:\dataset\VOCdevkit\VOC2007\JPEGImages\FAW_ (31).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>FAW</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1336</xmin>
+			<ymin>530</ymin>
+			<xmax>1400</xmax>
+			<ymax>584</ymax>
+		</bndbox>
+	</object>
+</annotation>

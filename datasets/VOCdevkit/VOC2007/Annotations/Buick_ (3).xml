@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>Buick_ (3).jpg</filename>
+	<path>D:\dataset\VOCdevkit\VOC2007\JPEGImages\Buick_ (3).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>899</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Buick</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1279</xmin>
+			<ymin>438</ymin>
+			<xmax>1337</xmax>
+			<ymax>514</ymax>
+		</bndbox>
+	</object>
+</annotation>

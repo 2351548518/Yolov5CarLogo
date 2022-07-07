@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>Honda_ (42).jpg</filename>
+	<path>D:\dataset\VOCdevkit\VOC2007\JPEGImages\Honda_ (42).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>322</width>
+		<height>175</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Honda</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>73</xmin>
+			<ymin>86</ymin>
+			<xmax>88</xmax>
+			<ymax>98</ymax>
+		</bndbox>
+	</object>
+</annotation>

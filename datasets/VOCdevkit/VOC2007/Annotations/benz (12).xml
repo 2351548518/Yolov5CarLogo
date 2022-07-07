@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>benz (12).jpg</filename>
+	<path>D:\dataset\VOCdevkit\VOC2007\JPEGImages\benz (12).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1365</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Benz</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>303</xmin>
+			<ymin>696</ymin>
+			<xmax>430</xmax>
+			<ymax>826</ymax>
+		</bndbox>
+	</object>
+</annotation>

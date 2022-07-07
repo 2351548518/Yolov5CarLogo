@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>Lexus_ (18).jpg</filename>
+	<path>D:\dataset\VOCdevkit\VOC2007\JPEGImages\Lexus_ (18).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5700</width>
+		<height>2687</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lexus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1486</xmin>
+			<ymin>1404</ymin>
+			<xmax>1641</xmax>
+			<ymax>1541</ymax>
+		</bndbox>
+	</object>
+</annotation>
